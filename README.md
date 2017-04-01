@@ -25,5 +25,4 @@ Installation
 
 1. Start gulp with ```npm start``` or ```gulp```
 
-
 * [Yarn](https://yarnpkg.com/en/) recommended
