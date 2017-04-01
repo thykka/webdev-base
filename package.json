@@ -6,7 +6,8 @@
   "scripts": {
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rm -rf node_modules/ && rm -f css/style.css && rm -f css/* && rm -f js/*"
+    "prepare": "rm -rf node_modules/",
+    "clean": "rm -f css/* && rm -f js/*"
   },
   "author": "Moses Holmström",
   "license": "ISC",
