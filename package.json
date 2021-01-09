@@ -10,7 +10,7 @@
     "clean": "rm -f css/* && rm -f js/*"
   },
   "author": "Moses Holmström",
-  "license": "ISC",
+  "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
